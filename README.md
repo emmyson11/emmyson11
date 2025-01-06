@@ -4,7 +4,7 @@ Here's the complete GitHub profile README using the details from your resume:
 
 # 👋 Hi, I'm Emmy!
 
-🎓 **Junior at University of California, Berkeley 🐻 **, studying Applied Mathematics with a specialization in Data Science!
+🎓 **Junior at University of California, Berkeley 🐻**, studying Applied Mathematics with a specialization in Data Science!
 
 🔭 **Aspiring Data Scientist, Machine Learning Enthusiast, and Sustainability Advocate**
 
