@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Emmy!
+# Hi, I'm Emmy!
 
-🎓 **Junior at University of California, Berkeley 🐻**, studying Applied Mathematics with a specialization in Data Science!
+**Junior at University of California, Berkeley 🐻**, studying Applied Mathematics with a specialization in Data Science!
 
-🔭 **Aspiring Data Scientist, Machine Learning Enthusiast, and Sustainability Advocate**
+**Aspiring Data Scientist, Machine Learning Enthusiast, and Sustainability Advocate**
 
 I’m passionate about tackling real-world problems through data analysis, predictive modeling, and AI. I thrive on continuous learning and aim to build impactful solutions through technology. Currently, I’m diving deep into machine learning, data science, and AI projects. I’m looking for opportunities to apply my skills in a challenging internship environment and collaborate with industry professionals.
 
@@ -17,13 +17,13 @@ I’m passionate about tackling real-world problems through data analysis, predi
 
 Curious? See the full project here: https://github.com/Resolvely/Main
 
-## 🛠 Tech Stack:
+## Tech Stack:
 - **Languages**: Python, Java, C++
 - **Data Science**: Pandas, NumPy, Scikit-learn, TensorFlow
 - **Tools**: Jupyter Notebooks, Google Colab, Git, GitHub, Snowflake
 - **Databases**: SQL, MySQL
 
-## 🚀 Projects:
+## Projects:
 A few other noteworthy projects I’ve worked on:
 
 ### Health Insurance Cost Predictor
@@ -35,12 +35,12 @@ A few other noteworthy projects I’ve worked on:
 **Learnings**: Built an end-to-end churn prediction pipeline using KNN, decision trees, and logistic regression, optimizing and evaluating models.
 
 
-## 📫 How to Reach Me:
+## How to Reach Me:
 - **Email**: [emmyson11@berkeley.com](mailto:emmyson11@berkeley.com)
 - **LinkedIn**: [linkedin.com/in/emmyson](https://www.linkedin.com/in/emmyson)
 - **GitHub**: [github.com/emmyson11](https://github.com/emmyson11)
 
-## 📊 GitHub Stats: Coming soon!
+## GitHub Stats: Coming soon!
 
 ## ✨ Fun Fact:
 I love all things coffee, matcha, and legos !! ✨
