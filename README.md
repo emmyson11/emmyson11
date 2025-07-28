@@ -40,7 +40,6 @@ A few other noteworthy projects I’ve worked on:
 - **LinkedIn**: [linkedin.com/in/emmyson](https://www.linkedin.com/in/emmyson)
 - **GitHub**: [github.com/emmyson11](https://github.com/emmyson11)
 
-## GitHub Stats: Coming soon!
 
 ## ✨ Fun Fact:
 I love all things coffee, matcha, and legos !! ✨
