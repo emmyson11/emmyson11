@@ -1,45 +1,44 @@
-# Hi, I'm Emmy!
+#  (˶˃⤙˂˶) Hi, I'm Emmy!
 
-**Junior at University of California, Berkeley 🐻**, studying Applied Mathematics with a specialization in Data Science!
+**Senior at University of California, Berkeley 🐻**, majoring in Data Science!
 
-**Aspiring Data Scientist, Machine Learning Enthusiast, and Sustainability Advocate**
+** Aspiring Data Scientist, Machine Learning Enthusiast, and Sustainability Advocate**
 
-I’m passionate about tackling real-world problems through data analysis, predictive modeling, and AI. I thrive on continuous learning and aim to build impactful solutions through technology. Currently, I’m diving deep into machine learning, data science, and AI projects. I’m looking for opportunities to apply my skills in a challenging internship environment and collaborate with industry professionals.
+Right now, I’m focused on projects that explore real-world applications of ML, especially in projects that are community-centered! I’m always looking to learn and improve, and I enjoy working on projects that combine both technical depth and social impact.
 
-**Got any leads? Let me know!**
 
-## 🎯 Featured Project: Unsupervised Clustering and Recommendation in CollegeMatch with Resolvely
-**What We Did**: Co-created a machine learning model to recommend colleges tailored to student preferences. This project used clustering techniques and supervised learning models to predict admission probabilities.
+## °‧ 𓆝 𓆟 𓆞 ·｡ Featured Project: Predicting Food Deserts in California  
+Built a Random Forest Classifier to predict food deserts across California with 97% accuracy using features like race, income, and transportation access. The goal was to uncover patterns of food insecurity and support more targeted community interventions.  
 
-**Tools**: Python, scikit-learn, Google Colab, Snowflake
+**Tools**: Python, scikit-learn, pandas, matplotlib
 
-**Result**: Achieved 85% accuracy, outperforming the baseline by 20%, and provided data-driven insights that helped guide customer service improvements.
+**Result**: A significant insight we’ve learned is that food deserts aren’t caused by a single factor, they emerge from the intersection of poverty, racial disparities, and limited access to transportation and healthy food options, highlighting deeper systemic inequalities in communities.
 
-Curious? See the full project here: https://github.com/Resolvely/Main
+Access our tableau dashboard here: https://public.tableau.com/app/profile/soumily.maji/viz/Book1_17459066681670/Sheet1
+Presentation: https://docs.google.com/presentation/d/1XQEyFRp-PfEJ57ldfEOY20Qf7VK8PUJR6gmGGRKM4eo/edit?usp=sharing
 
 ## Tech Stack:
-- **Languages**: Python, Java, C++
+- **Languages**: Python, Java, SQL
 - **Data Science**: Pandas, NumPy, Scikit-learn, TensorFlow
-- **Tools**: Jupyter Notebooks, Google Colab, Git, GitHub, Snowflake
+- **Tools**: Jupyter Notebooks, Google Colab, Git, GitHub, Snowflake, AI, NLP, LLMs, APIs
 - **Databases**: SQL, MySQL
 
-## Projects:
+## ⋅˚₊‧ ଳ ‧₊˚ ⋅ Other Projects:
 A few other noteworthy projects I’ve worked on:
 
-### Health Insurance Cost Predictor
-**Tech Stack**: Python, scikit-learn, Kaggle datasets  
-**Learnings**: Co-created a linear regression model to predict health insurance costs based on various factors.
+### College Match Recommender @ Resolvely  
+Built a machine learning model to recommend colleges based on student profiles. Used clustering and regression to estimate admissions likelihood and improve user experience.  
+**Tools**: Python, scikit-learn, Snowflake  
+**Outcome**: Achieved 88% R² and improved model fit over baseline.
 
-### Customer Churn Predictor
-**Tech Stack**: Python, Jupyter Notebook, scikit-learn  
-**Learnings**: Built an end-to-end churn prediction pipeline using KNN, decision trees, and logistic regression, optimizing and evaluating models.
-
+### Cafe Recommendation App  
+Created an AI-powered cafe recommendation system using LangChain, OpenAI, and Yelp API. Users can input natural language queries to get personalized suggestions.  
+**Tools**: LangChain, ChromaDB, OpenAI, Yelp API, Streamlit  
+**Focus**: Semantic search, RAG pipelines, user experience
 
 ## How to Reach Me:
 - **Email**: [emmyson11@berkeley.com](mailto:emmyson11@berkeley.com)
 - **LinkedIn**: [linkedin.com/in/emmyson](https://www.linkedin.com/in/emmyson)
-- **GitHub**: [github.com/emmyson11](https://github.com/emmyson11)
-
 
 ## ✨ Fun Fact:
 I love all things coffee, matcha, and legos !! ✨
