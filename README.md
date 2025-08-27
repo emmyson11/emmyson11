@@ -2,7 +2,7 @@
 
 **Senior at University of California, Berkeley 🐻**, majoring in Data Science!
 
-Hello, my name is Emmy Son, and I am a first-generation college student at UC Berkeley studying data science. My love for data began from late-night League of Legends games wwith friends where I would dig into stats on OP.GG to figure out the best competitive advantages against my opponents. Naturally, that curiosity drove me to start my career in data science deleving into building predictive models and analyzing real-world datasets.
+Hello, my name is Emmy Son, and I am a first-generation college student at UC Berkeley studying data science. My love for data began from late-night League of Legends games with friends where I would dig into stats on OP.GG to figure out the best competitive advantages against my opponents. Naturally, that curiosity drove me to start my career in data science deleving into building predictive models and analyzing real-world datasets.
 
 Since then, I’ve worked on projects ranging from ADHD risk prediction with fMRI and socio-demographic data, to mapping food deserts, to predicting player rank in League, turning messy data into actionable insights and interpretable models. Outside of coding, I love all things coffee, matcha, and Rilakkuma. I like to think of myself as someone who’s curious, scrappy, and persistent. If you're interested in netwowrking, collabing on a project, or even becoming friends, please reach out to me!!
 
