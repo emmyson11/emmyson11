@@ -14,8 +14,6 @@ This GitHub account hosts all of my projects related to data analysis and machin
 
 [emmyson11 (my profile start page)](https://github.com/emmyson11)
 
-|
-
 ├── [Machine Learning Projects](https://github.com/emmyson11/Machine-Learning-Projects)
 
 ├── [Data Analysis Projects](https://github.com/emmyson11/Data-Analysis-Projects)
