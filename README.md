@@ -10,7 +10,7 @@ Right now, I’m focused on projects that explore real-world applications of ML,
 
 This GitHub account hosts all of my projects related to data analysis and machine learning. You can explore them in two main repositories: Data Analysis Projects, which focuses on exploratory analysis, visualization, and statistical modeling, and Machine Learning Projects, which includes predictive modeling, classification, regression, and end-to-end ML pipelines. I also have projects in the works that you can view with more detail on how wto access under the repository structure below!
 
-# Repository Structure:
+### Repository Structure:
 
 [emmyson11 (my profile start page)](https://github.com/emmyson11)
 
